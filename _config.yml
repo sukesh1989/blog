@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+gems: [jekyll-paginate,jekyll-gist]
+# Setup
+title:            Sukesh
+tagline:          'Software engineer'
+description:      'Software engineer, machine learning enthusiast.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Sukesh Salian'
+  url:            https://twitter.com/fatindiancoder
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/sukesh1989
