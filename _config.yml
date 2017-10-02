@@ -10,7 +10,7 @@ gems: [jekyll-paginate,jekyll-gist]
 title:            Sukesh
 tagline:          'Software engineer'
 description:      'Software engineer, machine learning enthusiast.'
-url:              http://hyde.getpoole.com
+url:              http://sukesh1989.github.io/blog
 baseurl:          /
 
 author:
